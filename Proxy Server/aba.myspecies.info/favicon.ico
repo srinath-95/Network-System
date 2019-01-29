@@ -1,0 +1,13 @@
+HTTP/1.1 404 Not Found
+Date: Wed, 21 Nov 2018 05:51:39 GMT
+Server: Apache
+X-Content-Type-Options: nosniff
+Content-Length: 45
+Content-Type: text/html; charset=iso-8859-1
+X-Varnish: 967639945
+Age: 0
+Via: 1.1 varnish-v4
+grace: none
+Connection: keep-alive
+
+The requested file favicon.ico was not found.

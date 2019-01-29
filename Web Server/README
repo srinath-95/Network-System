@@ -1,0 +1,21 @@
+README file for HTTP Programming
+
+In this program, I have built one server program to handle multiple requests from Web Browser an display the content on the browser.
+
+Server:
+1. I have used forking inorder to accept multiple requests.
+2. Any requests coming from the web browser will be handled gracefully and the requested file would be displayed on the browser.
+3. Any bad requests coming from browser, the code handles these errors gracefully and the error message will be displayed on the browser.
+
+Pipelining:
+Pipelining concepts has also been implemented, where the socket is made open for 10 seconds when the request has requests for "keep-alive" connection, any requests coming within this span of time will be processed if not the socket will be closed. The timeout of socket is implemented using setsockopt.
+
+POST:
+POST command is also implemented, where the server would send the postdata along with the file it had requested for. Any request seeking invalid filename would send the error message onto the client.
+
+How to RUN:
+--> make server
+--> ./server [portno]
+
+
+

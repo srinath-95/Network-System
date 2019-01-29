@@ -1,0 +1,162 @@
+HTTP/1.1 200 OK
+Date: Wed, 05 Dec 2018 02:03:11 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.1e-fips PHP/5.6.31
+Last-Modified: Wed, 09 Jan 2002 09:39:50 GMT
+ETag: "1cae-3971b79974580"
+Accept-Ranges: bytes
+Content-Length: 7342
+Content-Type: text/css
+
+
+body,td,th,p,li,div {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 13px; font-weight: normal; color: #5b5d62;}
+
+.bodytext {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: normal;
+	color: #1D3A55;
+}
+
+.bodytext10 { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: normal; color: #1D3A55; }
+.bodytextgal { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: normal; color: #c4fcff; }
+.white1 { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-weight: normal; color: #ffffff; }
+.white1b { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-weight: bold; color: #ffffff; }
+.bottomtext { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: normal; color: #727272; }
+
+.title { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 15px; font-weight: normal; color: #4AA6C6; }
+.subtitle { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 13px; font-weight: normal; color: #003D73; }
+
+.text13Red {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px; font-weight: bold; color: #D80004;
+}
+.white11bold{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px; font-weight: bold; color: #FFFFFF;
+}
+.topmenuback {
+	background-image: url(elements/top_blank.jpg);
+	background-repeat: repeat-x; height: 25px;
+}
+.graytopback {
+	background-image: url(../elements/gray_home_top.jpg);
+	background-repeat: no-repeat;
+}
+.rightgray {
+	background-image: url(../elements/right_gray.jpg);
+	background-repeat: repeat-y; background-position:top right;
+}
+	
+#menutable {
+	margin:0px 0px 0px 0px;
+	position: relative; 
+	left:640px;
+	top:85px;
+}
+	
+.textform { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color:1D3A55; background-color: #ffffff; border: 1px solid #666666; }
+.textsubmit {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-weight: bold; color: 005353;}
+.formstar {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-weight: normal; color: CC0000;}
+.text14RedBold {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 14px; font-weight: bold; color: E20000;}
+.scrolling-message {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-weight: normal; color: FFFFFF;}
+.photo {margin: 0px 10px 10px 0px; clear: right; float: left;}
+.grayright { border-right-width: 1px; border-right-style: solid; border-right-color: e7e7e7; }
+.line { padding:3px; background-color:#b3eb54; margin:0; }
+
+/******** IMAGE GALLERY FUNCTION ********/
+.imagegallery { border: 1px solid #D3D3D3; }
+.imageborder { position: relative; float: center; border: 1px solid #BBC72A; padding: 10px; }
+
+/******** Submit Buttons **********/
+input.submitform { border:1px solid dcdcdc; background-color:FFFFFF; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color:ff2d22; font-weight:bold; cursor: pointer;} 
+input.submitform { border:1px solid dcdcdc; background-color:ff2d22; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color:ffffff; font-weight:bold; cursor: pointer;} 
+
+/******** DOWN PANEL (search results) **********/
+input.boxpages { border:1px solid dcdcdc; background-color:FFFFFF; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color:ff2d22; font-weight:bold; } 
+input.boxpagesactive { border:1px solid dcdcdc; background-color:ff2d22; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color:ffffff; font-weight:bold; } 
+
+
+/******** LIST RECORDS FUNCTION ********/
+.listtable { border: 1px solid #FFFFFF; background-color: #FFFFFF; width: 100%;}
+.listResTable { 
+	border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: C6C6C6;
+	height: 30px; width: 100%;
+}
+.listnum { 
+	background-color: FFFFFF; 
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px; font-weight: bold; color: #D80004;
+	width: 40px; text-align: center;
+}
+.date { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: normal; color: #424244; }
+a.listLink { padding-left: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; color: #000066; text-decoration: none;}
+a:hover.listLink { padding-left: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; color: #FF0000; text-decoration:underline;}
+
+.filesize { width: 50px; padding-left: 0px; text-align: center;
+	font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; 
+	font-weight: normal; color: #1D3A55;
+}
+.tablepanel { background-color: FFFFFF; width:100%; border: 0px solid #CC0000; }
+.textpanel {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-weight: normal; color: #1D3A55; }
+.submitpanel {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-weight: bold; color: #1D3A55; }
+
+
+/* For animated images in background - xfade2 */
+#backgroundfadeimages{ position:absolute; }
+
+
+/* ********* *********** ********** */
+/* ********* MENU STYLES ********** */
+/* ********* *********** ********** */
+#menu ul { margin: 0; padding: 0; list-style: none; 
+	width: 140px; /* Width of Menu Items */ 
+	border-bottom: 0px solid #ccc; BACKGROUND: #FFF4D4;
+}  
+
+#menu ul li { position: relative; } 
+
+#menu li ul { position: absolute; 
+	width: 170px; left: 139px; /*Set 1px less than menu width */ 
+	top: 0; display: block; 
+} 
+
+#menu li:hover ul { display: block; } 
+#menu li:hover>ul { visibility:visible; } 
+#menu ul ul { visibility:hidden; } 
+
+/* Fix IE. Hide from IE Mac \*/ 
+* html #menu ul li { float: left; height: 1%; } 
+* html #menu ul li a { height: 1%; } 
+/* End */ 
+
+/* Make-up syles */ 
+
+#menu ul, li { margin: 0 0 0 0; } 
+
+/* Styles for Menu Items */ 
+#menu ul a { display: block; text-decoration: none; background: #FFF4D4; 
+	FONT: 10px/10px Verdana; COLOR: #B64000; font-weight: bold;
+	padding: 5px; border: 0px solid #ccc; border-bottom: 0; 
+} 
+
+/* Hover Styles */ 
+#menu ul a:hover { color: #E2144A; }
+
+/* Sub Menu Styles */ 
+#menu li ul a { text-decoration: none; color: #B64000; background: #FFF4D4;
+	padding: 5px; border: 1px solid #ccc; border-bottom: 0; 
+} 
+
+/* Sub Menu Hover Styles */ 
+#menu li ul a:hover { color: #2A4966; background: #f9f9f9; } 
+
+/* Icon Styles */ 
+#menu ul a.submenu {background:#FFF4D4 url("r_arrow.gif") no-repeat right; } 
+#menu ul a.submenu:hover {background:#FFF4D4 url("r_arrow.gif") no-repeat right;}
+
+/* E-SHOP */
+.sctitles { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: bold; color: #ffffff; }
+.redstar { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: bold; color: #FF0000; }
+.submitshop { border:1px solid #c2c2c2; background-color:#efefef; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color:#626777; font-weight:bold; cursor: hand;} 
+.formshop { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color:1D3A55; background-color: #ffffff; border: 1px solid #666666; }
+.colorlinesform { background-color: #f1f1f1; }

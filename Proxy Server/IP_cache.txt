@@ -1,0 +1,10 @@
+
+morse.colorado.edu 128.138.184.74
+storage.googleapis.com 172.217.1.80
+aavtrain.com 192.185.11.183
+conference2013.m.marbigen.org 192.135.166.121
+www.yourweather.co.uk 104.18.185.202
+www.caida.org 192.172.226.123
+www.bcc.com 184.168.221.96
+www.philosophypages.com 172.81.117.249
+chess.myspecies.info 157.140.2.32

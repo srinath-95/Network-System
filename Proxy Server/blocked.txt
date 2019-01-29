@@ -1,0 +1,5 @@
+www.facebook.com
+www.ken.com		128.138.1.1
+www.fire.com
+198.162.1.2
+
